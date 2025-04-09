@@ -43,7 +43,7 @@ MahiroBoxMenu 是一个中文的 Escape the Backrooms 游戏模组菜单（非�
 
 ## 📬 联系方式
 
-- Bilibili：[@Mahiro_Official](https://space.bilibili.com/1091949728)
+- Bilibili：[@MahiroBox](https://space.bilibili.com/1091949728)
 - Discord：[加入我们的 Discord 服务器](https://discord.gg/jH2kkX28)
 - QQ目前已被禁言，可能会在5月解除
 
