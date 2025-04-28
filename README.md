@@ -57,7 +57,7 @@
 
 - 📺 Bilibili：[**@MahiroBox**](https://space.bilibili.com/1091949728)  
 - 💬 Discord：[**加入我们的 Discord 服务器**](https://discord.gg/jH2kkX28)  
-- 🐧 QQ 当前已被禁言，可能于 **5 月解除**
+- 🐧 QQ [**加入群聊**](https://qm.qq.com/q/HGKcIgISQO)  
 
 ---
 
