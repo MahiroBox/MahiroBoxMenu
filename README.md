@@ -56,7 +56,7 @@
 ##  **联系方式**
 
 - 📺 Bilibili：[**@MahiroBox**](https://space.bilibili.com/1091949728)  
-- 💬 Discord：[**加入 Discord 服务器**](https://discord.gg/jH2kkX28)  
+- 💬 Discord：[**加入 Discord 服务器**](https://discord.gg/UcfPSrV9FT)  
 - 🐧 QQ [**加入群聊**](https://qm.qq.com/q/HGKcIgISQO)  
 
 ---
