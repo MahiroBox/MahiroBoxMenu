@@ -9,6 +9,8 @@
 - 请前往发布页面获取下载链接：  
    [发布版本](https://github.com/CBEXRP/MahiroBoxMenu/releases)
 
+- 只需放入LogicMods
+
 - 游戏版本1.0以前的模组版本号小于3.00.0
 
 ###  密钥
@@ -37,9 +39,12 @@
 
 此模组需要以下组件支持：
 
+3.0.0以前
 -  必要前置：[**Interpose Mod Loader**](https://www.nexusmods.com/escapethebackrooms/mods/7)
 -  部分功能要求：[**UE4SS**](https://docs.ue4ss.com/)
 
+3.0.0以后
+-  必要 ：[**UE4SS**](https://docs.ue4ss.com/)
 ---
 
 ##  **备注**
