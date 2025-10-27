@@ -43,8 +43,13 @@
 -  必要前置：[**Interpose Mod Loader**](https://www.nexusmods.com/escapethebackrooms/mods/7)
 -  部分功能要求：[**UE4SS**](https://docs.ue4ss.com/)
 
-3.0.0以后
+3.0.0-3.0.1
 -  必要 ：[**UE4SS**](https://docs.ue4ss.com/)
+
+3.0.2以上
+-  必要前置：[**Interpose Mod Loader**](https://www.nexusmods.com/escapethebackrooms/mods/7)
+-  部分功能要求：[**UE4SS**](https://docs.ue4ss.com
+  
 ---
 
 ##  **备注**
